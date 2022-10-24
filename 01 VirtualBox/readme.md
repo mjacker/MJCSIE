@@ -11,4 +11,5 @@
 - Listing Virtual machines `VboxManage list vms`\
 - Show Virtual Machine info: `VboxManage showvminfo "<virtual machine name>"`\
 
-
+## Network Settings reference
+https://www.nakivo.com/blog/virtualbox-network-setting-guide/
