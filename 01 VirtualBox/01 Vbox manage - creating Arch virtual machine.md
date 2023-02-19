@@ -34,6 +34,9 @@
 	- `VBoxManage modifyvm MJArch --vrde on`
 	- `VBoxManage modifyvm MJArch --vrdemulticon on --vrdeport 3390`
 
+- Listing Virtual machines
+	- `VboxManage.exe list vms`
+
 - Start the Virtual Machine
 	- `VBoxManage startvm MJArch`					 // Use Virtual box gui.
 	- `VBoxManage startvm MJArch --type headless` // can be connected from RDP
