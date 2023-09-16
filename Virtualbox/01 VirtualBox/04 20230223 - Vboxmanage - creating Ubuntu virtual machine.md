@@ -49,6 +49,20 @@ Updated: 20230223
 - Modify VRDE / Remote IP Address
 `VBoxManage modifyvm MJUbuntu --vrdeaddress 127.0.0.1`
 
+### Port Forwarding for ssh client (while the virtual machine is running
+VBoxManage.exe  controlvm MJUbuntu natpf1 "ssh,tcp,127.0.0.1,9222,10.0.2.15,22"
+
+> if not running the virutal machine use modifyvm instead of controlvm. (not tested)
+
+### Configure firewall and open port 22
+```
+$ sudo ufw allow ssh
+$ sudo ufw enable
+$ sudo ufw status
+```
+
+
+
 ### Start the Virtual Machine
 	- `VBoxManage startvm MJUbuntu`					 // Use Virtual box gui.
 	- `VBoxManage startvm MJUbuntu --type headless` // can be connected from RDP
@@ -56,6 +70,7 @@ Updated: 20230223
 
 ### Exit the Virtual Machine  
 `VBoxManage  controlvm MJUbuntu poweroff` 
+
 
 ---
 
