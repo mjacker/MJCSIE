@@ -48,4 +48,4 @@ Due to Major Computer Science has to many topics, usually for me if difficult to
 ---
 # Projects I worked on:
 - Raspberry
-    - [Traffic lights](./Embedded%20Systems/raspberry/01%20Traffic%20Lights/readme.md)
+    - [Traffic lights](./Embedded%20Systems/readme.md)
