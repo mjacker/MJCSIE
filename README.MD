@@ -44,3 +44,8 @@ Due to Major Computer Science has to many topics, usually for me if difficult to
 - Capstone Project: Culminating the degree with a substantial project that demonstrates your skills and knowledge in a practical application.
 
 > AI Generated.
+
+---
+# Projects I worked on:
+- Raspberry
+    - [Traffic lights](./Embedded%20Systems/raspberry/01%20Traffic%20Lights/readme.md)
