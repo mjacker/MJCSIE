@@ -1,4 +1,4 @@
 list = [4, 2, 5, 1]
 
-for x, i in range(enumerate(list))
-    print(x + i)
+for pos, elem in (enumerate(list)):
+    print(str(elem) + " is in " + str(list[pos]))
