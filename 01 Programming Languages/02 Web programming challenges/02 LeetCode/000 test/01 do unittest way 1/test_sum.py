@@ -1,7 +1,7 @@
 import unittest
 
 # from my folder def import my program
-from my_sum import sum
+from sum import sum
 
 class TestSum(unittest.TestCase): # usando la libreria unittest
     def test_list_int(self):
