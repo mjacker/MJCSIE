@@ -4,3 +4,6 @@
 [submodule "10 Web Development/php-samples"]
 	path = 10 Web Development/php-samples
 	url = https://github.com/mjacker/php-samples.git
+[submodule "Docker/docker-samples"]
+	path = Docker/docker-samples
+	url = git@github.com:mjacker/docker-samples.git
