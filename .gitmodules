@@ -10,3 +10,6 @@
 [submodule "mjscripts"]
 	path = 00mjscripts
 	url = https://github.com/mjacker/mjscripts.git
+[submodule ".mj-dotfiles"]
+	path = .mj-dotfiles
+	url = https://github.com/mjacker/.mj-dotfiles
