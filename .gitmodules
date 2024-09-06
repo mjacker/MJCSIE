@@ -7,9 +7,6 @@
 [submodule "Docker/docker-samples"]
 	path = docker-samples
 	url = git@github.com:mjacker/docker-samples.git
-[submodule "mjscripts"]
-	path = 00mjscripts
-	url = https://github.com/mjacker/mjscripts.git
 [submodule ".mj-dotfiles"]
 	path = .mj-dotfiles
 	url = https://github.com/mjacker/.mj-dotfiles
