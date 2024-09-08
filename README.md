@@ -8,7 +8,7 @@ Also planing to list here some small projects that I haved worked on.
 </p>
 
 # Contents
-- [Submodules](#submodules
+- [Submodules](#submodules)
 
 # Submodules
 - docker-samples
