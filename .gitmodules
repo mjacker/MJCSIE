@@ -13,3 +13,6 @@
 [submodule ".mj-dotfiles"]
 	path = .mj-dotfiles
 	url = https://github.com/mjacker/.mj-dotfiles
+[submodule "PL-DS"]
+	path = PL-DS
+	url = git@github.com:mjacker/PL-DS.git
