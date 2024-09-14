@@ -13,3 +13,6 @@
 [submodule "PL-DS"]
 	path = PL-DS
 	url = git@github.com:mjacker/PL-DS.git
+[submodule "cybersecurity"]
+	path = cybersecurity
+	url = git@github.com:mjacker/cybersecurity.git
