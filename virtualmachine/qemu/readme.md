@@ -25,3 +25,6 @@ Port forwarding if needed with
 Connect from VNC viewer
 
 ![Imgur-connect-vnc](https://i.imgur.com/LhxHm3Y.png)
+
+Desktop
+![imgur-kali-desktop](https://imgur.com/PvNm4T7.png)
