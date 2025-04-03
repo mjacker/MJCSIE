@@ -24,7 +24,6 @@ Port forwarding if needed with
 
 Connect from VNC viewer
 
-![Imgur-connect-vnc](https://imgur.com/LhxHm3Y)
-
+![Imgur-connect-vnc](https://i.imgur.com/LhxHm3Y.png)
 testing imgur image
 ![Imgur](https://imgur.com/wzdi0D8.png)
