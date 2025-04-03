@@ -13,9 +13,9 @@ Also planing to list here some small projects that I haved worked on.
 # Submodules
 - docker-samples
 
-# Installing arch
+# Virtual Machines
 
-[arch from zero](https://github.com/mjacker/MJCSIE/blob/master/virtualmachine/Virtualbox/03%20Arch/01%20installing.md)
+[Installing arch in VirtualBox](https://github.com/mjacker/MJCSIE/blob/master/virtualmachine/Virtualbox/03%20Arch/01%20installing.md)
 
 
 simple test image from hackmd.io
