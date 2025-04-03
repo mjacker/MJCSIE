@@ -22,3 +22,6 @@ simple test image from hackmd.io
 # Testing imgur url
 
 ![Imgur](https://i.imgur.com/lP8Soke.png)
+
+Small square:
+![Imgur](https://i.imgur.com/lP8Sokes.png)
