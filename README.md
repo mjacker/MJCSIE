@@ -17,3 +17,8 @@ Also planing to list here some small projects that I haved worked on.
 simple test image from hackmd.io
 
 ![image](https://hackmd.io/_uploads/ByvlRIDY1x.png)
+
+
+# Testing imgur url
+
+![Imgur](https://i.imgur.com/lP8Soke.png)
