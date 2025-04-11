@@ -27,3 +27,10 @@
 -net user,hostfwd=tcp::2222-:22
 ```
 
+## Managing VMs with QEMU
+
+List running VM: `ps aux | grep qemu`
+Suspend a VM: `kill -STOP <qemu_pid>`
+Resume a VM: `kill -CONT <qemu_pid>`
+Save VM state to a file: `qemu-system-86_64 -incoming "exec: cat snapshot.save"`
+Monitor a running VM: `nc localhost 4444`
