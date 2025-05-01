@@ -16,3 +16,6 @@
 [submodule "cybersecurity"]
 	path = cybersecurity
 	url = git@github.com:mjacker/cybersecurity.git
+[submodule "mjcourses"]
+	path = mjcourses
+	url = git@github.com:mjacker/mjcourses.git
