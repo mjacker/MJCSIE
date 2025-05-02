@@ -2,7 +2,7 @@
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
 ## Online tools:
-> [stackedit](https://stackedit.io/) Testing Markdown online.
+- [stackedit](https://stackedit.io/) Testing Markdown online.
 
 ## Index
 - [Headers 1 to 6 examples.](#headers)
@@ -17,19 +17,22 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 - [Links.](#links)
 - [Images.](#images)
 - [Code Markdowns.](#github-markdown)
-
 - [Go to the end.](#endfile)
 
-# Testing comments
-1. one two <!-- three -->
-2. one two <# three -->
-[](one two three)
-.comment { display :none;}
-// one two three
-{>> one two three<<}
+--- 
 
 <!-- HEADERS. -->
-## # Headers
+## Headers
+
+```
+# Heading 1
+##  Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+```
+---
 # Heading 1
 ##  Heading 2
 ### Heading 3
@@ -38,14 +41,16 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 ###### Heading 6
 
 [Back to Index.](#index)
+---
 
 <!-- Text formats. -->
 ## Text format
 - Italics: *This text* is italic. _This text_ is italic.
--  Strong: **This text** is strong. __This text__ is strong.
--  Italics and strong: ***This text*** is italic and strong. ___This text___ is italic and strong.
+- Strong: **This text** is strong. __This text__ is strong.
+- Italics and strong: ***This text*** is italic and strong. ___This text___ is italic and strong.
 - Strikethrough (tachado):  ~~This text~~ is strikethrough
 [Back to Index.](#index)
+---
 
 <!-- # HORIZONTAL -->
 ## Horizontal Rule
@@ -175,6 +180,14 @@ npm start
    }
 </style>
 
+--- 
+# Testing comments
+1. one two <!-- three -->
+2. one two <# three -->
+[](one two three)
+.comment { display :none;}
+// one two three
+{>> one two three<<}
 ---
 <!-- you can jump to this id: "endfile" -->
 ##### end of this file.<a id="endfile"></a>
